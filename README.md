@@ -1,2 +1,2 @@
 # PythonPractice
-Repo for learning python development
+Repo for learning Python development
